@@ -1,0 +1,11 @@
+# Ignore folder named
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+ignore/
+# Ignore files named
+.DS_Store
+# Ignore all files with the .extensions
+.o
+.log
+.env
