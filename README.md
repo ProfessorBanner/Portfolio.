@@ -9,5 +9,5 @@ Data Science and ML Engineering
 | Web ML End-to-End Application| ./ML App       |                                        |
 | Time series analysis | ./         | Models for time series analysis                                        |
 | Liqudity prediction| ./Time series analysis/       |                                         |
-| ECG signal processin| ./Time series analysis/        |                                         |
+| ECG signal processing| ./Time series analysis/        |                                         |
 ***
