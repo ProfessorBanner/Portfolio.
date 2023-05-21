@@ -30,7 +30,7 @@
 
 By following these steps and conducting thorough analysis and validation, we can build and implement an effective market risk assessment model for the portfolio.
 
-**Files:
+**Files**:
 
 EDA. ipynb - exploring time series and VaR models
 
