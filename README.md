@@ -5,9 +5,9 @@ Data Science and ML Engineering
 | Name                    | Location          | Description                                                         |
 |--------------------------------|-------------------|---------------------------------------------------------------------|
 | Data Science Part I | ./                | Data preprocessing, EDA, hypothesis testing.      |
-| Data Science Part II |           | Modelling for inference. Feature selection and engineering. Modelling for prediction. |
+| Data Science Part II | ./           | Modelling for inference. Feature selection and engineering. Modelling for prediction. |
+| Web ML End-to-End Application| ./        | ML App                                       |
 | Time series analysis | ./         | Models for time series analysis                                        |
-| Web ML End-to-End Application| ./projects/web_ml_app         |                                         |
-| ECG signals processing| ./projects/ecg_project       |                                         |
-| Risk management| ./projects/risk_management         |                                         |
+| Liqudity prediction| ./Time series analysis/       |                                         |
+| ECG signal processin| ./Time series analysis/        |                                         |
 ***
