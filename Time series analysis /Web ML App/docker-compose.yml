@@ -1,0 +1,25 @@
+version: "3"
+
+services:
+
+  webdb:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=test
+    volumes:
+      - ./db:/var/lib/postgresql/data
+
+
+  fastapi:
+     image: fast-api
+     ports:
+       - "8000:80"
+     depends_on:
+       - webdb
+
+
+# http://localhost:8000/docs#/

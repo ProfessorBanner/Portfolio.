@@ -1,0 +1,14 @@
+# Ignore folder named
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+db/
+ignore/
+# Ignore files named
+.DS_Store
+Makefile
+# Ignore all files with the .extensions
+.o
+.log
+.env
+modules/app/serializedmodels/20230504
