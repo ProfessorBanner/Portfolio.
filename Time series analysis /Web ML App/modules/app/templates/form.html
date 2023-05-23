@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sample Form</title>
+</head>
+    <body>
+        <form method="post">
+            <h3>Enter Date ('2023-04-17') </h3>
+            <input name="Filter_date"  data-date="" data-date-format="DD MMMM YYYY" value="YYYY-MM-DD"/>
+            <h3>Enter Ticker ('AAPL') </h3>
+            <input type="text" name="Filter_ticker">
+            <input type="submit">
+        </form>
+
+<p>Prediction for the ticker {{Filter_ticker}} on {{Filter_date}}  equals: {{  result }}</p>
+
+</body>
+</html>
