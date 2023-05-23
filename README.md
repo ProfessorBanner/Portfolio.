@@ -12,7 +12,7 @@ Data Science and ML Engineering
 | Liqudity prediction          | ./Time series analysis/       |Automated pipeline for predicting the values of time series    |
 | ECG signal processing         | ./Time series analysis/        | Signal-to-Noise Models for ECG                                        |  
 | Value at Risk                 | ./Time series analysis/        |VaR models for multi-asset investment portfolio                                    |
-| Web ML App         | ./Time series analysis/Web ML App       |End-to-end web app to forecast time series using PostgreSQL, FastAPI,and Docker   |
+| Web ML App         | ./Time series analysis/Web ML App       |End-to-end web app to forecast time series using PostgreSQL, FastAPI, and Docker   |
 
 
 ***
