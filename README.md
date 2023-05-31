@@ -2,12 +2,16 @@
 Data Science and ML Engineering
 ****
 ### Projects and notebooks
-| Name                    | Location          | Description                                                         |
-|--------------------------------|-------------------|---------------------------------------------------------------------|
-| Data Science Part I | ./                | Data preprocessing, EDA, hypothesis testing.      |
-| Data Science Part II |           | Modelling for inference. Feature selection and engineering. Modelling for prediction. |
-| Time series analysis | ./         | Models for time series analysis                                        |
-| Web ML End-to-End Application| ./projects/web_ml_app         |                                         |
-| ECG signals processing| ./projects/ecg_project       |                                         |
-| Risk management| ./projects/risk_management         |                                         |
+| Name                          | Location          | Description                                                         |
+|-------------------------------|-------------------|---------------------------------------------------------------------|
+| **Data Science**              | ./                | Data Science core competencies     |
+| Data Science Part I.ipynb     | ./Data Science/    | Data wrangling and preprocessing, EDA, sampling, hypothesis testing.      |
+| Data Science Part II.ipynb    | ./Data Science/   | Feature selection and engineering. Modelling for inference. Feature importance. Modelling for prediction. Pipelines. Model comparison. |
+| **Time series analysis**      | ./         | Models for time series analysis                                        |
+| Liqudity prediction          | ./Time series analysis/       |Automated pipeline for predicting the values of time series    |
+| ECG signal processing         | ./Time series analysis/        | Signal-to-Noise Models for ECG                                        |  
+| Value at Risk                 | ./Time series analysis/        |VaR models for multi-asset investment portfolio                                    |
+| Web ML App         | ./Time series analysis/Web ML App       |End-to-end web app to forecast time series using PostgreSQL, FastAPI, and Docker   |
+
+
 ***
